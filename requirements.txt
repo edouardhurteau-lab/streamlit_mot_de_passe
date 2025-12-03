@@ -1,3 +1,3 @@
 streamlit 
-streamlit_option_menu import option_menu
-streamlit_authenticator import Authenticate
+streamlit-option-menu
+streamlit_authenticator
